@@ -1,0 +1,3 @@
+[submodule "Drivers/SHT40"]
+	path = Drivers/SHT40
+	url = git@killobyte.es:croppy/sht40.git
